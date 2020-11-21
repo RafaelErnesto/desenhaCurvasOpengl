@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605931794 source:c:\users\rfler\documents\computação gráfica\geradordecurvas\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1582936184 c:\users\rfler\documents\computação gráfica\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
